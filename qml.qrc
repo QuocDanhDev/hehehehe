@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Icon/select.svg</file>
+        <file>Icon/home.svg</file>
+        <file>Icon/user-circle.svg</file>
+        <file>Icon/wifi.svg</file>
+        <file>Icon/minus.svg</file>
+        <file>Icon/plus.svg</file>
+    </qresource>
+    <qresource prefix="/TabView">
+        <file>TabHome.qml</file>
+        <file>TabTemp.qml</file>
+        <file>TabHumi.qml</file>
+        <file>TabCo2.qml</file>
+        <file>TabSetting.qml</file>
+    </qresource>
+    <qresource prefix="/Component">
+        <file>ItemValue.qml</file>
+        <file>ItemMenu.qml</file>
+        <file>ItemNavbar.qml</file>
+        <file>ItemContent.qml</file>
+        <file>ItemStatus.qml</file>
+        <file>ItemAside.qml</file>
+        <file>ItemEditValue.qml</file>
+    </qresource>
+</RCC>
